@@ -1,3 +1,4 @@
 Echo "helloo there"
 Echo "hrllo iamhere"
-date
+
+echo "helloooooo bwoyyy"
